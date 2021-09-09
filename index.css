@@ -152,6 +152,7 @@ footer{
     border:0px solid rgb(39, 35, 35);
     border-radius:50%;
     box-shadow: 0 0 10px 3px rgb(39, 35, 35);
+    background:white;
 }
 .rec-mar{
     margin-left:10px;
