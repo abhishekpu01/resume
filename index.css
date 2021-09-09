@@ -150,7 +150,7 @@ footer{
     height:30px;
     width:30px;
     border:0px solid rgb(39, 35, 35);
-    border-radius:50%;
+    border-radius:20℅;
     box-shadow: 0 0 10px 3px rgb(39, 35, 35);
     background:white;
 }
