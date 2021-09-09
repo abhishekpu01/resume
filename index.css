@@ -172,9 +172,6 @@ footer{
     .mt{
        margin-top:10px;
     }
-    .dhead{
-        width:73%;
-    }
     .footer-head{
         font-size:1rem;
     }
@@ -193,7 +190,7 @@ footer{
         margin-top:2rem;
     }
     .dhead{
-        width:75%;
+        width:73%;
     }
 }
 @media only screen and (max-width:300px){
